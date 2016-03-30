@@ -1,4 +1,4 @@
-# graphical_game_of_discs
+# game_of_discs
 this a small game for 2 players
 here there are two players and each player is assigned a color_disc
 when his turn comes he just insert the disc in the columns
