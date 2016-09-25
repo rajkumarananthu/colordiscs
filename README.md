@@ -6,4 +6,4 @@ whenever a player gets his coloured discs in order(line,diagnol) he wins
 the game ends
 
 
-the project is under construction
+the project is one step away
