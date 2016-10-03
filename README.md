@@ -6,7 +6,8 @@ whenever a player gets his 4 coloured discs in order i.e., vertically,horizontal
 the game ends
 
 
-the project is completed 
+the project is completed.
+
 3 Oct 2016 now you can restart the game again if you want to paly.
 
 
