@@ -1,4 +1,4 @@
-# game_of_colors
+# colordiscs
 this a small game for 2 players
 here there are two player/s and each player is assigned a color_disc
 when his turn comes he just insert the disc in the columns
@@ -8,7 +8,7 @@ the game ends
 
 the project is completed.
 
-3 Oct 2016 now you can restart the game again if you want to paly.
+(3 Oct 2016) now you can restart the game again if you want to paly.
 
 
 bugs if any report me!
